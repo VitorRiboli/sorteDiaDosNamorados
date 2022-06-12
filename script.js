@@ -17,15 +17,12 @@ function Sortear(){
     } else if (sorte == 6) {
         resultado.innerHTML = "Você é perfeita assim mesmo, desse jeito meio brigona, mas sempre carinhosa."
     } else if (sorte == 7) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Te conhecer foi a melhor coisa que me aconteceu, eu tenho sorte de ter você. Obrigado por estar sempre ao meu lado"
     } else if (sorte == 8) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Desculpa não ter comprado nenhum presente"
     } else if (sorte == 9) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Você é a pessoa que me completa, que me faz feliz. Que venham muitos dia dos Namorados!"
     } else if (sorte == 10) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Algumas escolhas mudam nossas vidas completamente. Você foi minha melhor escolha. te amor"
     }
-
-    
-
 };
