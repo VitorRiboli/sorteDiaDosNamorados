@@ -5,17 +5,17 @@ function Sortear(){
     if(sorte == 0){
         resultado.innerHTML = "Eu te Amo!";
     } else if (sorte == 1) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Tentei escrever muitas coisas, mas acabei descobrindo que amar é melhor sentir do que dizer, e que milhões de frases bonitas jamais alcançariam a grandeza do que sinto por você. Resumindo... te amo."
     } else if (sorte == 2) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Dizem que o amor é belo, mas belo ele não é. Belas são as pessoas que o têm nas mãos e sabem cultivá-lo. Te amo! Feliz Dia dos Namorados!"
     } else if (sorte == 3) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Não preciso de desculpas para celebrar o nosso amor, mas aceito mesmo assim. Feliz Dia dos Namorados, meu bem! Te amo muito!"
     } else if (sorte == 4) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "O amor não se vê com os olhos mas com o coração."
     } else if (sorte == 5) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Você tem meu coração, te amo minha nega"
     } else if (sorte == 6) {
-        resultado.innerHTML = ""
+        resultado.innerHTML = "Você é perfeita assim mesmo, desse jeito meio brigona, mas sempre carinhosa."
     } else if (sorte == 7) {
         resultado.innerHTML = ""
     } else if (sorte == 8) {
